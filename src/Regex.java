@@ -35,7 +35,7 @@ public class Regex {
 		
 		/*
 		 * Search for the email address
-		 * johnsmith@gmail.com
+		 * johnsmith@hotmail.com
 		 */	
 		 	regexChecker("[A-Za-z0-9._%-]+@[A-Za-z0-9._-]+\\.[A-Za-z]{2,4}", longString);
 		
